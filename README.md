@@ -1,0 +1,2 @@
+# rubyeg
+example of ruby
